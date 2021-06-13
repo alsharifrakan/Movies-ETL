@@ -14,6 +14,17 @@
 - Created a Movie Database in PostrgresSQL and Loaded the data 
 
 
+![](images/movies_query.png)
+
+
+
+
+![](images/ratings_query.png)
+
+
+
+
+![](images/retiring_titles.png)
 
     
 
