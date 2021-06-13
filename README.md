@@ -24,7 +24,6 @@
 
 
 
-![](images/retiring_titles.png)
 
     
 
